@@ -35,20 +35,24 @@ A comprehensive SQL analysis project with 10 business questions solved using Pos
 - **Language:** SQL
 - **Tools:** DBeaver / pgAdmin
 
-## 📁 Project Structure
-monday-coffee-sql-analysis/
-├── README.md
-└── queries/
-├── Q1_coffee_consumers.sql
-├── Q2_revenue_analysis.sql
-├── Q3_product_sales.sql
-├── Q4_avg_sales_per_city.sql
-├── Q5_city_population.sql
-├── Q6_top_products_by_city.sql
-├── Q7_unique_customers.sql
-├── Q8_avg_sale_vs_rent.sql
-├── Q9_monthly_growth.sql
-└── Q10_market_analysis.sql
+## 📁 Files Included
+
+- **README.md** - Project documentation
+- **sql_project_coffee.sql** - All 10 SQL queries (Q1 to Q10)
+
+## 📝 Queries in Single File
+
+All 10 analytics queries are included in one SQL file:
+- Q1: Coffee Consumers Count
+- Q2: Total Revenue Analysis
+- Q3: Product Sales
+- Q4: Average Sales per City
+- Q5: City Population
+- Q6: Top Products by City
+- Q7: Customer Segmentation
+- Q8: Sales vs Rent
+- Q9: Monthly Growth
+- Q10: Market Potential
 
 ## 🚀 How to Use
 1. Clone the repository
