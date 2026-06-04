@@ -70,7 +70,7 @@ All 10 analytics queries are included in one SQL file:
 Aditya singh
 
 ## 📧 Contact
-bassi_bruh@gmail.com
+adityasingghda@gmail.com
 
 ---
 
